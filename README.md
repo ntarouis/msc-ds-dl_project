@@ -17,7 +17,7 @@ To tackle this, we have implemented three different models:
 ## Dataset
 
 The dataset we used for training our models is:
-*https://www.kaggle.com/datasets/mikoajkoek/traffic-road-object-detection-polish-12k*
+*https://www.kaggle.com/datasets/mikoajkoek/traffic-road-object-detection-polish-12k* <br>
 Please download the data, create a new folder inside with the name "original" and insert the files there.
 
 ## Installation
